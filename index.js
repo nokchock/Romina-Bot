@@ -265,7 +265,7 @@ if (command === "Keller") {
   
   
   
-  if (command === "nahui") { 
+  if (command === "wetterbericht") { 
     return message.channel.send("wisch das jizz weg");
   }
   
@@ -293,8 +293,26 @@ if (command === "Keller") {
    if (command === "tillmann") { 
     return message.channel.send("ΔΔΔ");
   }
-  
+ 
+  if (command === "veronica") { 
+    return message.channel.send("lutscht mein yarak");
+  }
    
+ 
+ if (command === "marie") { 
+    return message.channel.send("lak gio lass die kinder in ruhe");
+  }
+ 
+ 
+ if (command === "joint ") { 
+    return message.channel.send("ich war der erste der süngerdiegos joint weg genommen hat");
+  }
+ 
+ 
+  if (command === "K.O.C?") { 
+    return message.channel.send("keine entscheidung du kriegst cockschelle im keller");
+  }
+ 
 else {
     message.channel.send("Kauf dir Kelbhino überlebt");
     return; 
