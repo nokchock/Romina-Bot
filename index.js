@@ -306,6 +306,9 @@ client.on("message", async message => {
     return message.channel.send("lak gio lass die kinder in ruhe");
   }
  
+ if (command === "gerechtigkeit") { 
+    return message.channel.send("http://media.washtimes.com.s3.amazonaws.com/media/image/2016/01/05/1_5_2016_b1-may-adolf-erdoga8201.jpg");
+  }
  
  if (command === "joint") { 
     return message.channel.send("ich war der erste der süngerdiegos joint weg genommen hat");
