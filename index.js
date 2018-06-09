@@ -399,9 +399,13 @@ client.on("message", async message => {
     return message.channel.send("https://nordstadtblogger.de/wp-content/uploads/2016/02/Helmholtz01.jpg");
   }
  
+  if (command === "sushido-pedo") { 
+    return message.channel.send("https://nordstadtblogger.de/wp-content/uploads/2016/02/Helmholtz01.jpg");
+  }
+ 
  
  if (command === "weltmacht") { 
-    return message.channel.send("https://www.bing.com/th?id=OIP.yR0AP74ZYJNsrv9QudAfogHaEK&pid=Api");
+    return message.channel.send("https://images.interactives.dk/files/bonnier-ill/pictures/parring-hunde.jpg");
   }
  
  else if(command === "help") {
