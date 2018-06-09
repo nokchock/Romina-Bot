@@ -329,6 +329,9 @@ client.on("message", async message => {
     return message.channel.send("https://www.instagram.com/p/Be_DuwuBCV0/?taken-by=moiskid");
   }
  
+ if (command === "tit") { 
+    return message.channel.send("https://de.pornhub.com/gif/16839402");
+  }
  
  if (command === "geht-es-dir-gut") { 
     return message.channel.send("https://www.instagram.com/p/Bih_FM2BtAX/?taken-by=moiskid ja warum fragst du ?");
