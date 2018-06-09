@@ -386,6 +386,12 @@ client.on("message", async message => {
     return message.channel.send("https://0.academia-photos.com/44676724/12152413/13535458/s200_burkhard.sauerwald.jpg");
   }
  
+ 
+ 
+ if (command === "essen-in-afrika") { 
+    return message.channel.send("");
+  }
+ 
  if (command === "der-führer") { 
     return message.channel.send("https://nordstadtblogger.de/wp-content/uploads/2016/02/Helmholtz01.jpg");
   }
