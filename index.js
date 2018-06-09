@@ -400,7 +400,7 @@ client.on("message", async message => {
   }
  
  
- if (command === "Weltmacht") { 
+ if (command === "weltmacht") { 
     return message.channel.send("https://www.bing.com/th?id=OIP.yR0AP74ZYJNsrv9QudAfogHaEK&pid=Api");
   }
  
