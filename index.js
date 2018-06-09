@@ -400,6 +400,9 @@ client.on("message", async message => {
   }
  
  
+ if (command === "Weltmacht") { 
+    return message.channel.send("https://www.bing.com/th?id=OIP.yR0AP74ZYJNsrv9QudAfogHaEK&pid=Api");
+  }
  
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
