@@ -256,7 +256,10 @@ client.on("message", async message => {
       .catch(error => message.reply(`Couldn't delete messages because of: ${error}`));
 
   }
-if (command === "Keller") { 
+
+ 
+ 
+ if (command === "Keller") { 
     return message.channel.send("ich ficke gerade veronica");
   }
   
@@ -304,7 +307,7 @@ if (command === "Keller") {
   }
  
  
- if (command === "joint ") { 
+ if (command === "joint") { 
     return message.channel.send("ich war der erste der süngerdiegos joint weg genommen hat");
   }
  
@@ -338,11 +341,11 @@ if (command === "Keller") {
  
  
  if (command === "witz?") { 
-    return message.channel.send("was reimt sich auf lak fu..... CANSU");
+    return message.channel.send("was reimt sich auf lak fu..... schuh");
   }
  
  
- if (command === "Yarak") { 
+ if (command === "yarak") { 
     return message.channel.send("https://pbs.twimg.com/profile_images/743065838396268544/nmFnhsCa_400x400.jpg");
   }
  
