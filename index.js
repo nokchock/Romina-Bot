@@ -313,6 +313,11 @@ if (command === "Keller") {
     return message.channel.send("keine entscheidung du kriegst cockschelle im keller");
   }
  
+ 
+ else if(command === "help") {
+   message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
+  }
+ 
 else {
     message.channel.send("Kauf dir Kelbhino überlebt");
     return; 
