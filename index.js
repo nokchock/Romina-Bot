@@ -329,8 +329,8 @@ client.on("message", async message => {
     return message.channel.send("https://www.instagram.com/p/Be_DuwuBCV0/?taken-by=moiskid");
   }
  
- if (command === "tit") { 
-    return message.channel.send("http://www.abload.de/res/imgs/403.gif");
+ if (command === "kalendar") { 
+    return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/13600118_10210117155584216_485300583915591689_n.jpg?_nc_cat=0&oh=064cd429a8e2d852d59e4db6fb1fe14e&oe=5BB31C96");
   }
  
  if (command === "geht-es-dir-gut") { 
