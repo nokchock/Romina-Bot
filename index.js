@@ -309,7 +309,7 @@ if (command === "Keller") {
   }
  
  
-  if (command === "K.O.C?") { 
+  if (command === "KOC") { 
     return message.channel.send("keine entscheidung du kriegst cockschelle im keller");
   }
  
