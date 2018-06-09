@@ -386,6 +386,9 @@ client.on("message", async message => {
     return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-1/c177.16.323.323/25479_106106626080996_1784060_n.jpg?_nc_cat=0&oh=a380d48e7cfadbc1c3c3a48598b63b79&oe=5B765D59");
   }
  
+ if (command === "der-führer") { 
+    return message.channel.send("https://nordstadtblogger.de/wp-content/uploads/2016/02/Helmholtz01.jpg");
+  }
  
  
  
