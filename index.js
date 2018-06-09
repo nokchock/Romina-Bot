@@ -333,8 +333,7 @@ if (command === "Keller") {
  
  
  if (command === "real-help") { 
-    return message.channel.send("wenn du dein yaro siehst 
-                                https://www.instagram.com/p/BiSkERshSm_/?taken-by=moiskid");
+    return message.channel.send("wenn du dein yaro siehst  https://www.instagram.com/p/BiSkERshSm_/?taken-by=moiskid");
   }
  
  else if(command === "help") {
