@@ -314,6 +314,13 @@ if (command === "Keller") {
   }
  
  
+ 
+ 
+ if (command === "jemand-ist-in-dein-keller-eingebrochen") { 
+    return message.channel.send("https://www.instagram.com/p/BgMia2DFHww/?taken-by=moiskid");
+  }
+ 
+ 
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
   }
