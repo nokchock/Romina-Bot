@@ -372,6 +372,23 @@ client.on("message", async message => {
     return message.channel.send("https://images.complex.com/complex/image/upload/c_fill,f_auto,g_faces:auto,h_900,q_auto,w_900/ah12zqe5oq47ew7vuheg.jpg");
   }
  
+ 
+ 
+ 
+ if (command === "david-nine") { 
+    return message.channel.send("https://songtexte.co/Images/Artists/david-nine-songtexte-lyrics-259dcc.jpg");
+  }
+ 
+ 
+ 
+ 
+ if (command === "böser-wald") { 
+    return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-1/c177.16.323.323/25479_106106626080996_1784060_n.jpg?_nc_cat=0&oh=a380d48e7cfadbc1c3c3a48598b63b79&oe=5B765D59");
+  }
+ 
+ 
+ 
+ 
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
   }
