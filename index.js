@@ -330,7 +330,7 @@ client.on("message", async message => {
   }
  
  if (command === "tit") { 
-    return message.channel.send("https://de.pornhub.com/gif/16839402");
+    return message.channel.send("http://www.abload.de/res/imgs/403.gif");
   }
  
  if (command === "geht-es-dir-gut") { 
