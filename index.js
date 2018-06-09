@@ -350,6 +350,11 @@ client.on("message", async message => {
   }
  
  
+ 
+ if (command === "sheyma") { 
+    return message.channel.send("http://x.imagefapusercontent.com/u/crazytolya/5931533/1221322785/Sexy-shemale-2370.jpg");
+  }
+ 
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
   }
