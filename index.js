@@ -342,6 +342,10 @@ if (command === "Keller") {
   }
  
  
+ if (command === "Yarak") { 
+    return message.channel.send("https://pbs.twimg.com/profile_images/743065838396268544/nmFnhsCa_400x400.jpg");
+  }
+ 
  
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
