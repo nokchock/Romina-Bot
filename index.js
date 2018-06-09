@@ -355,6 +355,10 @@ client.on("message", async message => {
     return message.channel.send("http://x.imagefapusercontent.com/u/crazytolya/5931533/1221322785/Sexy-shemale-2370.jpg");
   }
  
+ if (command === "Johnnys-ex") { 
+    return message.channel.send("https://images.complex.com/complex/image/upload/c_fill,f_auto,g_faces:auto,h_900,q_auto,w_900/ah12zqe5oq47ew7vuheg.jpg");
+  }
+ 
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
   }
