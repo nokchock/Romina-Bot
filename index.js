@@ -321,6 +321,12 @@ if (command === "Keller") {
   }
  
  
+ 
+ if (command === "du-bist-ein-huso") { 
+    return message.channel.send("https://www.instagram.com/p/Be_DuwuBCV0/?taken-by=moiskid");
+  }
+ 
+ 
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
   }
