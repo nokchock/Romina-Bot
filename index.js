@@ -306,9 +306,7 @@ client.on("message", async message => {
     return message.channel.send("lak gio lass die kinder in ruhe");
   }
  
- if (command === "gerechtigkeit") { 
-    return message.channel.send("http://media.washtimes.com.s3.amazonaws.com/media/image/2016/01/05/1_5_2016_b1-may-adolf-erdoga8201.jpg");
-  }
+
  
  if (command === "joint") { 
     return message.channel.send("ich war der erste der süngerdiegos joint weg genommen hat");
@@ -332,14 +330,6 @@ client.on("message", async message => {
     return message.channel.send("https://www.instagram.com/p/Be_DuwuBCV0/?taken-by=moiskid");
   }
  
- if (command === "kalendar") { 
-    return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/13718681_10210183573004610_5885076693566324724_n.jpg?_nc_cat=0&oh=3ee68cb6630f35e99af1053ef77d684b&oe=5BC1A5D3");
-  }
- 
- 
-  if (command === "smolleng") { 
-    return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/14224814_321108651614028_1842150675964683367_n.jpg?_nc_cat=0&oh=5ad5d750f121f4317d5f4b87e4541934&oe=5BBCFAE5");
-  }
  
  
  if (command === "geht-es-dir-gut") { 
@@ -352,13 +342,6 @@ client.on("message", async message => {
   }
  
  
- if (command === "witz?") { 
-    return message.channel.send("was reimt sich auf lak fu..... schuh");
-  }
- 
-  if (command === "göt") { 
-    return message.channel.send("http://img.fotocommunity.com/esel-02-2f7c9cf2-a4af-4902-91a1-6ba25ab5fbdd.jpg?height=1080");
-  }
  
  
  if (command === "yarak") { 
@@ -366,10 +349,6 @@ client.on("message", async message => {
   }
  
  
- 
- if (command === "sheyma") { 
-    return message.channel.send("http://x.imagefapusercontent.com/u/crazytolya/5931533/1221322785/Sexy-shemale-2370.jpg");
-  }
  
  if (command === "johnnys-ex") { 
     return message.channel.send("https://images.complex.com/complex/image/upload/c_fill,f_auto,g_faces:auto,h_900,q_auto,w_900/ah12zqe5oq47ew7vuheg.jpg");
@@ -384,29 +363,14 @@ client.on("message", async message => {
  
  
  
- 
- if (command === "böser-wald") { 
-    return message.channel.send("https://0.academia-photos.com/44676724/12152413/13535458/s200_burkhard.sauerwald.jpg");
-  }
- 
- 
- 
- if (command === "essen-in-afrika") { 
-    return message.channel.send("");
-  }
- 
- if (command === "der-führer") { 
-    return message.channel.send("https://nordstadtblogger.de/wp-content/uploads/2016/02/Helmholtz01.jpg");
-  }
+
  
   if (command === "sushido-pedo") { 
     return message.channel.send("https://images.interactives.dk/files/bonnier-ill/pictures/parring-hunde.jpg");
   }
  
  
- if (command === "weltmacht") { 
-    return message.channel.send("https://images.interactives.dk/files/bonnier-ill/pictures/parring-hunde.jpg");
-  }
+
  
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
