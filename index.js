@@ -330,7 +330,7 @@ client.on("message", async message => {
   }
  
  if (command === "kalendar") { 
-    return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/13600118_10210117155584216_485300583915591689_n.jpg?_nc_cat=0&oh=064cd429a8e2d852d59e4db6fb1fe14e&oe=5BB31C96");
+    return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/13718681_10210183573004610_5885076693566324724_n.jpg?_nc_cat=0&oh=3ee68cb6630f35e99af1053ef77d684b&oe=5BC1A5D3");
   }
  
  if (command === "geht-es-dir-gut") { 
