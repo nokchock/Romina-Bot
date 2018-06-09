@@ -327,6 +327,10 @@ if (command === "Keller") {
   }
  
  
+ if (command === "geht-es-dir-gut") { 
+    return message.channel.send("https://www.instagram.com/p/Bih_FM2BtAX/?taken-by=moiskid ja warum fragst du ?");
+  }
+ 
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
   }
