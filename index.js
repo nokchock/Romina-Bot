@@ -344,6 +344,10 @@ client.on("message", async message => {
     return message.channel.send("was reimt sich auf lak fu..... schuh");
   }
  
+  if (command === "göt") { 
+    return message.channel.send("http://img.fotocommunity.com/esel-02-2f7c9cf2-a4af-4902-91a1-6ba25ab5fbdd.jpg?height=1080");
+  }
+ 
  
  if (command === "yarak") { 
     return message.channel.send("https://pbs.twimg.com/profile_images/743065838396268544/nmFnhsCa_400x400.jpg");
