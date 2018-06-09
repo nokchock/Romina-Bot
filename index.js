@@ -333,6 +333,12 @@ client.on("message", async message => {
     return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/13718681_10210183573004610_5885076693566324724_n.jpg?_nc_cat=0&oh=3ee68cb6630f35e99af1053ef77d684b&oe=5BC1A5D3");
   }
  
+ 
+  if (command === "smolleng") { 
+    return message.channel.send("https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-9/14224814_321108651614028_1842150675964683367_n.jpg?_nc_cat=0&oh=5ad5d750f121f4317d5f4b87e4541934&oe=5BBCFAE5");
+  }
+ 
+ 
  if (command === "geht-es-dir-gut") { 
     return message.channel.send("https://www.instagram.com/p/Bih_FM2BtAX/?taken-by=moiskid ja warum fragst du ?");
   }
