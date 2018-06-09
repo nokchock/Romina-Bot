@@ -336,6 +336,13 @@ if (command === "Keller") {
     return message.channel.send("wenn du dein yaro siehst  https://www.instagram.com/p/BiSkERshSm_/?taken-by=moiskid");
   }
  
+ 
+ if (command === "witz?") { 
+    return message.channel.send("was reimt sich auf lak fu..... CANSU");
+  }
+ 
+ 
+ 
  else if(command === "help") {
    message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
   }
