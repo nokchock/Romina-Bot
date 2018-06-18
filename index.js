@@ -333,14 +333,7 @@ client.on("message", async message => {
   }
  
  if (command === "aydin") { 
-    return message.channel.send("┈┈╱▏┈┈┈┈┈╱▔▔▔▔╲┈ 
-┈┈▏▏┈┈┈┈┈▏╲▕▋▕▋▏
-┈┈╲╲┈┈┈┈┈▏┈▏┈▔▔▔▆ ------- BORF!
-┈┈┈╲▔▔▔▔▔╲╱┈╰┳┳┳╯ 
-╱╲╱╲▏┈┈┈┈┈┈▕▔╰━╯ 
-▔╲╲╱╱▔╱▔▔╲╲╲╲┈┈┈ 
-┈┈╲╱╲╱┈┈┈┈╲╲▂╲▂┈ 
-┈┈┈┈┈┈┈┈┈┈┈╲╱╲╱┈");
+    return message.channel.send("http://2.bp.blogspot.com/-3u6AXCYdC0g/UWjespBz3jI/AAAAAAAAATs/c18_SphEGWU/s1600/cute-golden-retriever-puppies-pictures.jpg");
   } 
  
  
