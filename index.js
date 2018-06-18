@@ -332,6 +332,17 @@ client.on("message", async message => {
     return message.channel.send("https://www.instagram.com/p/Be_DuwuBCV0/?taken-by=moiskid");
   }
  
+ if (command === "aydin") { 
+    return message.channel.send("┈┈╱▏┈┈┈┈┈╱▔▔▔▔╲┈ 
+┈┈▏▏┈┈┈┈┈▏╲▕▋▕▋▏
+┈┈╲╲┈┈┈┈┈▏┈▏┈▔▔▔▆ ------- BORF!
+┈┈┈╲▔▔▔▔▔╲╱┈╰┳┳┳╯ 
+╱╲╱╲▏┈┈┈┈┈┈▕▔╰━╯ 
+▔╲╲╱╱▔╱▔▔╲╲╲╲┈┈┈ 
+┈┈╲╱╲╱┈┈┈┈╲╲▂╲▂┈ 
+┈┈┈┈┈┈┈┈┈┈┈╲╱╲╱┈");
+  } 
+ 
  
  
  if (command === "geht-es-dir-gut") { 
