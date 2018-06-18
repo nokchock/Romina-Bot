@@ -317,7 +317,7 @@ client.on("message", async message => {
     return message.channel.send("keine entscheidung du kriegst cockschelle im keller");
   }
  
- if (command === "TK") { 
+ if (command === "tk") { 
     return message.channel.send("Was für ebony ich ficke Zülbiye und Cansu");
   }
  
