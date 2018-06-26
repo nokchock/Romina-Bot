@@ -264,6 +264,12 @@ client.on("message", async message => {
   }
   
   
+ 
+ 
+ 
+ if (command === "präventiv") { 
+    return message.channel.send("ich ficke cansu anal");
+  }
   
   
   
