@@ -298,7 +298,7 @@ client.on("message", async message => {
   }
  
   if (command === "veronica") { 
-    return message.channel.send("lutscht mein yarak");
+    return message.channel.send("https://heise.cloudimg.io/bound/640x1000/q85.webp-lossy-85.foil1/_www-heise-de_/imagine/SacHiqAipEuvimDAa9K25jXNOqE/gallery/im-Keller.jpg");
   }
    
  
