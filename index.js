@@ -267,9 +267,7 @@ client.on("message", async message => {
  
  
  
- if (command === "präventiv") { 
-    return message.channel.send("ich ficke cansu anal");
-  }
+
   
   
   
@@ -323,9 +321,7 @@ client.on("message", async message => {
     return message.channel.send("keine entscheidung du kriegst cockschelle im keller");
   }
  
- if (command === "tk") { 
-    return message.channel.send("Was für ebony ich ficke Zülbiye und Cansu");
-  }
+ 
  
  
  if (command === "jemand-ist-in-dein-keller-eingebrochen") { 
@@ -338,9 +334,6 @@ client.on("message", async message => {
     return message.channel.send("https://www.instagram.com/p/Be_DuwuBCV0/?taken-by=moiskid");
   }
  
- if (command === "aydin") { 
-    return message.channel.send("http://2.bp.blogspot.com/-3u6AXCYdC0g/UWjespBz3jI/AAAAAAAAATs/c18_SphEGWU/s1600/cute-golden-retriever-puppies-pictures.jpg");
-  } 
  
  
  
@@ -362,9 +355,7 @@ client.on("message", async message => {
  
  
  
- if (command === "johnnys-ex") { 
-    return message.channel.send("https://images.complex.com/complex/image/upload/c_fill,f_auto,g_faces:auto,h_900,q_auto,w_900/ah12zqe5oq47ew7vuheg.jpg");
-  }
+
  
  
  
