@@ -31,7 +31,7 @@ client.on("ready", () => {
 
   // docs refer to as the "ClientUser".
 
-  client.user.setActivity("im Keller");
+  client.user.setActivity("Raucht am Joint");
 
 });
 
@@ -53,7 +53,7 @@ client.on("guildDelete", guild => {
 
   console.log(`I have been removed from: ${guild.name} (id: ${guild.id})`);
 
-  client.user.setActivity(`im Keller`);
+  client.user.setActivity(`Raucht am Joint`);
 
 });
 
@@ -259,8 +259,8 @@ client.on("message", async message => {
 
  
  
- if (command === "Keller") { 
-    return message.channel.send("ich ficke gerade veronica");
+ if (command === "Deutsch") { 
+    return message.channel.send("Ich texte nur auf englisch");
   }
   
   
@@ -272,115 +272,29 @@ client.on("message", async message => {
   
   
   
-  if (command === "wetterbericht") { 
-    return message.channel.send("wisch das jizz weg");
+  if (command === "sei-mal-weiblicher") { 
+    return message.channel.send("fresse du hurensohn");
   }
   
   
   
   
-  if (command === "lovecock") { 
-    return message.channel.send("Oaschloch it in man");
+  if (command === "Joint") { 
+    return message.channel.send("https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/e35/95411184_103390964646475_4792246174339644747_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=XykZxePp8ygAX89iMex&oh=97e32d4c869c0dc4fd2d7d7eb2d8d780&oe=5EE03125");
   }
   
   
   
-  if (command === "kelb") { 
-    return message.channel.send("http://media.news.de/resources/thumbs/70/20/855391334_800x600/bushido-will-zu-bohlen-in-die-dsds-jury.jpg");
+  if (command === "Instagram") { 
+    return message.channel.send("https://www.instagram.com/p/B_wzD7UIh-I/");
   }
 
-  
-  
-  if (command === "bbm-spidget-finner-boi") { 
-    return message.channel.send("Kollejah und sünger bob machen cockaura 31");
-  }
-  
-  
-  
-   if (command === "tillmann") { 
-    return message.channel.send("ΔΔΔ");
-  }
- 
-  if (command === "veronica") { 
-    return message.channel.send("https://heise.cloudimg.io/bound/640x1000/q85.webp-lossy-85.foil1/_www-heise-de_/imagine/SacHiqAipEuvimDAa9K25jXNOqE/gallery/im-Keller.jpg");
-  }
-   
- 
- if (command === "marie") { 
-    return message.channel.send("lak gio lass die kinder in ruhe");
-  }
- 
-
- 
- if (command === "joint") { 
-    return message.channel.send("ich war der erste der süngerdiegos joint weg genommen hat");
-  }
- 
- 
-  if (command === "koc") { 
-    return message.channel.send("keine entscheidung du kriegst cockschelle im keller");
-  }
- 
- 
- 
- 
- if (command === "jemand-ist-in-dein-keller-eingebrochen") { 
-    return message.channel.send("https://www.instagram.com/p/BgMia2DFHww/?taken-by=moiskid");
-  }
- 
- 
- 
- if (command === "du-bist-ein-huso") { 
-    return message.channel.send("https://www.instagram.com/p/Be_DuwuBCV0/?taken-by=moiskid");
-  }
- 
- 
- 
- 
- if (command === "geht-es-dir-gut") { 
-    return message.channel.send("https://www.instagram.com/p/Bih_FM2BtAX/?taken-by=moiskid ja warum fragst du ?");
-  }
- 
- 
- if (command === "real-help") { 
-    return message.channel.send("wenn du dein yaro siehst  https://www.instagram.com/p/BiSkERshSm_/?taken-by=moiskid");
-  }
- 
- 
- 
- 
- if (command === "yarak") { 
-    return message.channel.send("https://pbs.twimg.com/profile_images/743065838396268544/nmFnhsCa_400x400.jpg");
-  }
- 
- 
- 
-
- 
- 
- 
- 
- if (command === "david-nine") { 
-    return message.channel.send("https://songtexte.co/Images/Artists/david-nine-songtexte-lyrics-259dcc.jpg");
-  }
- 
- 
- 
-
- 
-  if (command === "sushido-pedo") { 
-    return message.channel.send("https://images.interactives.dk/files/bonnier-ill/pictures/parring-hunde.jpg");
-  }
- 
- 
-
- 
- else if(command === "help") {
-   message.author.sendMessage("yarak http://themancrushblog.com/wp-content/uploads/2017/06/johnny-sins4.jpg"); return;
+  if (command === "Youtube") { 
+    return message.channel.send("https://www.youtube.com/channel/UCbAYZwwYPoNiLdlFkEfEq9A?view_as=subscriber");
   }
  
 else {
-    message.channel.send("Kauf dir Kelbhino überlebt");
+    message.channel.send("https://open.spotify.com/artist/0ehhjMdqewiD5WVZ9VHR75");
     return; 
   }
  
