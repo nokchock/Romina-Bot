@@ -31,7 +31,7 @@ client.on("ready", () => {
 
   // docs refer to as the "ClientUser".
 
-  client.user.setActivity("Raucht am Joint");
+  client.user.setActivity("Kidd am hören");
 
 });
 
