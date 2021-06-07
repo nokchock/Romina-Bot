@@ -1,1 +1,1 @@
-# Romina Bot
+Kidd Bot
