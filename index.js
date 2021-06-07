@@ -259,9 +259,7 @@ client.on("message", async message => {
 
  
  
- if (command === "Deutsch") { 
-    return message.channel.send("Ich texte nur auf englisch");
-  }
+
   
   
  
@@ -272,29 +270,23 @@ client.on("message", async message => {
   
   
   
-  if (command === "sei-mal-weiblicher") { 
-    return message.channel.send("fresse du hurensohn");
-  }
+
   
   
   
-  
-  if (command === "Joint") { 
-    return message.channel.send("https://scontent-atl3-1.cdninstagram.com/v/t51.2885-15/e35/95411184_103390964646475_4792246174339644747_n.jpg?_nc_ht=scontent-atl3-1.cdninstagram.com&_nc_cat=107&_nc_ohc=XykZxePp8ygAX89iMex&oh=97e32d4c869c0dc4fd2d7d7eb2d8d780&oe=5EE03125");
-  }
-  
+
   
   
   if (command === "Instagram") { 
-    return message.channel.send("https://www.instagram.com/p/B_wzD7UIh-I/");
+    return message.channel.send("https://www.instagram.com/kidd/?hl=de)
   }
 
   if (command === "Youtube") { 
-    return message.channel.send("https://www.youtube.com/channel/UCbAYZwwYPoNiLdlFkEfEq9A?view_as=subscriber");
+    return message.channel.send("https://www.youtube.com/user/SIERRAKIDDXO");
   }
  
 else {
-    message.channel.send("https://open.spotify.com/artist/0ehhjMdqewiD5WVZ9VHR75");
+    message.channel.send("https://open.spotify.com/artist/0U7ti3mwGrBNlKNE4YlbfT?si=5p6T6EmbSrSsd_glzClxAg");
     return; 
   }
  
